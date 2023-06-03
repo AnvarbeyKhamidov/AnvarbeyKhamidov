@@ -18,6 +18,7 @@
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰i, Mobile App Development 𝚘𝚛 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
 - ⚡ 𝙵𝚞𝚗 Motto : **When life hands you lemons make lemonade.***
+##### You can reach out to me via anvar.khamidov98@mail.ru.
 
 <br/>
 <br/>
@@ -30,11 +31,7 @@
 
 <br/>
 
-### Hi there 👋 I'm Miracle Programmer, Founder / CEO @ ShahNur Software. 
-### Strong Middle Full-Stack Software Engineer (JavaScript, TypeScript, React.JS, Next.JS, Python, Dango)!
- - Check out my [blog](https://t.me/miracleprogrammer) and my [resume](https://gist.github.com/shakhbozbekusmonov/296d6e1d7da655b450ff7fe451f0d6e4).
- - I’m currently working on [ShahExpress.uz app](https://shahexpress.uz).
- - I’m currently learning Python, Telegram Bot, Django, SQL, Docker, Testing.
+
 ##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
 
 #### SOFTWARE SKILLS
