@@ -28,12 +28,6 @@
 
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
-
-<br/>
-
-
-##### You can reach out to me via shakhbozbek.usmonov@gmail.com.
-
 #### SOFTWARE SKILLS
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cpp,py,swift,react,redux,nextjs,mui,tailwind,django,postgres,sqlite,webpack&perline=20)](https://skillicons.dev)
 
