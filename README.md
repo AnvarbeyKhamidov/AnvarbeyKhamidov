@@ -1,9 +1,9 @@
 <h1 align="center">
     <img src="GIF/Earth.gif" width="24px">
- 𝐇𝐞𝐥𝐥𝐨, &lt;developers/&gt;! 
- 
- I'm Legend Programmer, <br/> Founder / CEO @ BrainyTech Company and BrainyTech School
+ 𝐇𝐞𝐥𝐥𝐨, &lt;developers/&gt;!  
 </h1>
+
+<h2> I'm Legend Programmer, <br/> Founder / CEO @ BrainyTech Company and BrainyTech School</h2>
 
 <h3>Strong Middle Frontend Developer (JavaScript, TypeScript, React.JS, Next.JS, Firebase)!</h3>
 
