@@ -5,6 +5,9 @@
  I'm Legend Programmer, <br/> Founder / CEO @ BrainyTech Company and BrainyTech School
 </h1>
 
+### Strong Middle Frontend Developer (JavaScript, TypeScript, React.JS, Next.JS, Firebase)!
+
+
 <br/>
 <br/>
 
