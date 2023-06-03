@@ -28,7 +28,7 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,nextjs,mui,tailwind&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,nextjs,mui,tailwind,java&perline=20)](https://skillicons.dev)
 
 #
 
