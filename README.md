@@ -33,8 +33,7 @@
 #
 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,powershell,stackoverflow,vscode,netlify,heroku,aws,firebase
-&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,powershell,stackoverflow,vscode,netlify,heroku,aws,firebase&perline=20)](https://skillicons.dev)
 
 
 
