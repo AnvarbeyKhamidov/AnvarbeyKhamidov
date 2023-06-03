@@ -4,7 +4,7 @@
  
   <img src="GIF/Hi.gif" width="40px" />
 
- I'm Legend Programmer, Founder / CEO @ BrainyTech Company and School
+ I'm Legend Programmer, <br/> Founder / CEO @ BrainyTech Company and BrainyTech School
 </h1>
 
 <br/>
