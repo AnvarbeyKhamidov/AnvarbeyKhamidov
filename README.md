@@ -28,12 +28,13 @@
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,cpp,py,swift,react,redux,nextjs,mui,tailwind,django,postgres,sqlite,webpack&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,nextjs,mui,tailwind,webpack&perline=20)](https://skillicons.dev)
 
 #
 
 
-[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,gitlab,linux,powershell,stackoverflow,vscode,netlify,heroku,aws,firebase,docker&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,figma,git,github,powershell,stackoverflow,vscode,netlify,heroku,aws,firebase
+&perline=20)](https://skillicons.dev)
 
 
 
