@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;developers/&gt;!
+  𝐇𝐞𝐥𝐥𝐨, &lt;developers/&gt;! 👋 
+ 
   <img src="GIF/Hi.gif" width="40px" />
 
  I'm Legend Programmer, Founder / CEO @ BrainyTech Company and School
