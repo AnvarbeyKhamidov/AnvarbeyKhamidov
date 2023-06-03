@@ -24,11 +24,11 @@
 
 
 #
-
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 
 
-[![My Skills](https://skillicons.dev/icon?i=html,css,bootstrap,sass,js,react,redux,nextjs,mui,tailwind,java,styledcomponents&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,nextjs,mui,tailwind,java,styledcomponents&perline=20)](https://skillicons.dev)
+
 
 #
 
