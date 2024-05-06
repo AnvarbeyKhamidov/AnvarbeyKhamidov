@@ -1,6 +1,5 @@
 <h1 align="center">
- 👋👋👋
- 𝐇𝐞𝐥𝐥𝐨, &lt;developers/&gt;!  
+ 𝐇𝐞𝐥𝐥𝐨, &lt;developers/&gt;  👋👋👋!  
 </h1>
 
 <h2> I'm Legend Programmer, <br/> Founder / CEO of @BrainyTech Company and BrainyTech School</h2>
